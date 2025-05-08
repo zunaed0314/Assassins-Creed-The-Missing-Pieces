@@ -25,6 +25,6 @@ Now you are all set. Run the program again and you will be able to play the game
 5. In the next levels you can use 'f' and 'i'. They are differnet types of attack and does more damage.
 
 
-Lastly, you may face difficulties while playing this game as made with a very old technology 'iGraphics'. 
+Lastly, you may face difficulties while playing this game as its made with a very old technology 'iGraphics'. 
 Best of luck nevertheless :)
 
